@@ -1,0 +1,7 @@
+{
+    "cognito": {
+        "REGION": "us-east-1",
+        "USER_POOL_ID": "us-east-1_xxxxxx",
+        "APP_CLIENT_ID": "xxxxxxxxxxxxxxxxx"
+    }
+}
